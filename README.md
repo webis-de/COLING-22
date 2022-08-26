@@ -2,4 +2,4 @@
 
 ### A Benchmark for Causal Question Answering
 
-[[Paper]()] [[Code and Data]()] Code and data will be published together with the CR paper version.
+[[Paper]()] [[Code and Data]()] Code and data will be published closer to the conference.
