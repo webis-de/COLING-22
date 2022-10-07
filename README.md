@@ -1,6 +1,6 @@
 # COLING-22 Code and Data
 
-### A Benchmark for Causal Question Answering
+### CausalQA: A Benchmark for Causal Question Answering
 
 [[Paper](https://webis.de/publications.html?q=bondarenko_2022g)] [[Code and Data](https://github.com/webis-de/coling22-benchmark-for-causal-question-answering)]
 
